@@ -16,8 +16,6 @@ import java.util.List;
 
 public class UserDaoImplTest {
 
-    private static Logger logger = LogManager.getLogger(UserDaoImplTest.class);
-
     private UserDao userDao;
 
 
